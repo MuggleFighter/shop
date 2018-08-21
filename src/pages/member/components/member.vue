@@ -89,13 +89,13 @@
         </div>
       </div>
     </div>
-    <div class="footer" style="min-height: 86px;">
+    <!-- <div class="footer" style="min-height: 86px;">
       <div class="copyright">
         <div class="ft-copyright ">
           <a href="https://www.youzan.com/?from_source=support_logo">有赞提供技术支持</a>
         </div>
       </div>
-    </div>
+    </div> -->
   <bottom-nav></bottom-nav>
   </div>
 </template>
